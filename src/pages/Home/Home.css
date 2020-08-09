@@ -1,0 +1,43 @@
+a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.add-link-wrapper {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  background-color: #e8e5e5;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.add-link-icon {
+  width: 100px;
+  height: 100px;
+  background-color: #d1d1d1;
+  border: 1px solid #b1b1b1;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-link-text {
+  font-size: 30px;
+  color: #000;
+  margin: 0 50px;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 40px;
+  color: #000;
+}
+
+.divider {
+  margin: 10px !important;
+}
